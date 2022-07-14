@@ -1,0 +1,37 @@
+[
+  {
+    "courseCode": "got",
+    "questions": [
+      {
+        "type": "mcText",
+        "questionText": "How do you say 'I'?",
+        "additionalText": null,
+        "correctAnswer": "ik",
+        "wrongAnswers": [
+          "þu",
+          "si",
+          "is"
+        ]
+      },
+      {
+        "type": "mcText",
+        "questionText": "How do you say 'to say'?",
+        "additionalText": null,
+        "correctAnswer": "qiþan",
+        "wrongAnswers": [
+          "qaþ",
+          "þus",
+          "taikns"
+        ]
+      },
+      {
+        "type": "inputText",
+        "questionText": "How do you say 'to say'?",
+        "additionalText": null,
+        "correctAnswers": [
+          "qiþan"
+        ]
+      }
+    ]
+  }
+]

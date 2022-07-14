@@ -1,0 +1,24 @@
+- courseCode: got
+  lessonNumber: 1
+  questions:
+    - type: mcText
+      questionText: How do you say 'I'?
+      additionalText:
+      correctAnswer: ik
+      wrongAnswers:
+        - þu 
+        - si
+        - is
+    - type: mcText
+      questionText: How do you say 'to say'?
+      additionalText:
+      correctAnswer: qiþan 
+      wrongAnswers:
+        - qaþ
+        - þus
+        - taikns
+    - type: inputText
+      questionText: How do you say 'to say'?
+      additionalText:
+      correctAnswers: 
+        - qiþan 

@@ -4,6 +4,7 @@
   official: true
   scripts: 2
   creation-date: 2022-07-14
+  users: 4
 
 - course-name: esperanto
   course-code: esp
@@ -11,6 +12,7 @@
   official: true
   scripts: 1
   creation-date: 2022-07-14
+  users: 2
 
 - course-name: catalan
   course-code: cat
@@ -18,10 +20,12 @@
   official: true
   scripts: 1
   creation-date: 2022-07-14
+  users: 2
 
 - course-name: saami
   course-code: saa
   course-id: 4
-  official: true
+  official: false
   scripts: 1
   creation-date: 2022-07-14
+  users: 1
