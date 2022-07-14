@@ -12,15 +12,15 @@
   scripts: 1
   creation-date: 2022-07-14
 
-- course-name: saami
-  course-code: saa
+- course-name: catalan
+  course-code: cat
   course-id: 3
   official: true
   scripts: 1
   creation-date: 2022-07-14
 
-- course-name: catalan
-  course-code: cat
+- course-name: saami
+  course-code: saa
   course-id: 4
   official: true
   scripts: 1
