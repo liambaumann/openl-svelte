@@ -11,15 +11,20 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
+		"fs": "^0.0.1-security",
 		"node-sass": "^7.0.1",
+		"rollup-plugin-svelte": "^7.1.0",
 		"sass": "^1.52.3",
-		"svelte": "^3.44.0",
+		"svelte": "^3.49.0",
 		"svelte-preprocess": "^4.10.7",
 		"yaml": "^2.1.1",
 		"yaml-parser": "^3.5.3"
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource/anek-latin": "^4.5.1",
+		"@fontsource/open-sans": "^4.5.10",
+		"@svelte-web-fonts/google": "^1.0.4",
 		"firebase": "^9.8.3",
 		"js-yaml": "^4.1.0"
 	}

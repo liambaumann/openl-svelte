@@ -3,11 +3,13 @@
 </script>
 
 <main>
-    <div class="course">
-        <h3>{course.name}</h3>
-        <p>{course.code}</p>
-        <p>Users: {course.users}</p>
-    </div>
+    <a href="/learn?course={course.code}">
+        <div class="course">
+            <h3>{course.name}</h3>
+            <p>{course.code}</p>
+            <p>Users: {course.users}</p>
+        </div>
+    </a>
 </main>
 
 <style>
